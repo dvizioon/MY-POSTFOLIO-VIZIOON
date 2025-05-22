@@ -1,0 +1,157 @@
+
+{
+  "header": {
+    "siteTitle": "DVIION",
+    "logoAlt": "DVIION Technology Logo",
+    "homeLinkAriaLabel": "DVIION Home",
+    "paletteInfoAriaLabel": "Curiosities"
+  },
+  "languageSwitcher": {
+    "ariaLabel": "Select language",
+    "placeholder": "Language",
+    "pt": "Portuguese (PT-BR)",
+    "en": "English (EN)"
+  },
+  "themeToggle": {
+    "switchToLight": "Switch to light mode",
+    "switchToDark": "Switch to dark mode",
+    "loading": "Toggle theme (loading)"
+  },
+  "hero": {
+    "title": "Welcome to the DVIION Portfolio",
+    "subtitle": "Exploring the universe of technology with creative and innovative solutions. Browse the projects below and discover more about my work.",
+    "ctaButton": "View Projects"
+  },
+  "projectsSection": {
+    "title": "My Projects",
+    "subtitle": "Discover some of the work I'm most proud of.",
+    "previewProjectButton": "Preview Project",
+    "goToSiteButton": "Open Site",
+    "askAgentButton": "Ask Agent",
+    "viewCodeButton": "View Code",
+    "viewImageAriaLabel": "View image for {projectTitle}",
+    "askAgentAriaLabel": "Tell me more about {projectTitle}",
+    "viewCodeAriaLabel": "View code for {projectTitle}",
+    "codeLinkModalTitle": "View Source Code",
+    "codeLinkModalDescription": "Click the button below to go to the project's repository.",
+    "codeLinkModalButton": "Go to Repository",
+    "codeLinkModalCancelButton": "Cancel",
+    "loading": "Loading projects...",
+    "fetchError": "Could not load projects. Please try refreshing the page.",
+    "noProjects": "No projects found at the moment.",
+    "noPreviewModalTitle": "Preview Not Available",
+    "noPreviewModalDescription": "There is no live preview available for the project: {projectTitle}.",
+    "noPreviewModalOkButton": "OK"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Learn a bit about my journey and passions.",
+    "greeting": "Hello, I'm Dvizioon",
+    "role": "Software Engineer, Back-End Developer Alien",
+    "bio1": "👨‍💻 Dedicated backend developer with experience in C++ and C#, specializing in creating robust systems and servers. 🚀 Skilled in Node.js, TypeScript, PHP, and Twig, as well as Python, with a focus on developing scalable microservices and creating APIs using Flask and Django. Committed to excellence in software development. 🌟",
+    "bio2": "My journey in the world of technology is driven by the constant search for innovative and efficient solutions, transforming complex ideas into digital reality.",
+    "bio3": "Outside of code, I enjoy exploring new technologies and contributing to open-source projects, which helps me keep creativity high and bring new perspectives to my work.",
+    "imageAlt": "Dvizioon's Avatar",
+    "emailAriaLabel": "Email Dvizioon",
+    "linkedinAriaLabel": "Dvizioon's LinkedIn",
+    "githubAriaLabel": "Dvizioon's GitHub"
+  },
+  "skills": {
+    "title": "My Skills",
+    "subtitle": "Technologies and tools I use to create amazing solutions.",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "toolsAndConcepts": "Other Tools & Concepts",
+      "aiGenAi": "AI & GenAI"
+    },
+    "loading": "Loading skills...",
+    "fetchError": "Could not load skills. Please try refreshing the page.",
+    "noSkills": "No skills listed at the moment."
+  },
+  "timeline": {
+    "title": "My Journey",
+    "subtitle": "A brief history of my milestones and experiences.",
+    "events": {
+      "1": {
+        "date": "Early 2020",
+        "title": "The Spark: Beginning the Coding Adventure",
+        "description": "Embarked on the self-taught journey into programming, fueled by curiosity and a passion for building things. Started with web fundamentals (HTML, CSS, JS) and explored Python."
+      },
+      "2": {
+        "date": "Mid 2021",
+        "title": "First Full-Stack Project: VIZIOON-DELIVERY",
+        "description": "Developed a complete delivery system using pure PHP, diving deep into backend logic, database management (MySQL), and creating a user-facing interface."
+      },
+      "3": {
+        "date": "Late 2022 - Ongoing",
+        "title": "Exploring Modern Stacks & AI",
+        "description": "Expanded skillset into Node.js, Express, React, and Next.js. Started integrating AI concepts and tools like Genkit, building projects like SISTEMA-IMC and this very portfolio."
+      },
+      "4": {
+        "date": "Early 2023",
+        "title": "Community Challenge: CRIP-TEXTO",
+        "description": "Participated in the BSP4 challenge, creating a text encryptor and honing problem-solving skills under a specific prompt."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Let's talk about your next project or idea!",
+    "formTitle": "Send a Message",
+    "formDescription": "Fill out the form below or find me on social media.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your full name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "your@email.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your message...",
+    "sendMessageButton": "Send Message",
+    "sendingButton": "Sending...",
+    "socialTitle": "Or find me on:",
+    "toastSuccessTitle": "Message Sent!",
+    "toastSuccessDescription": "Thanks for reaching out. I'll get back to you soon.",
+    "emailAriaLabel": "Email Dvizioon",
+    "linkedinAriaLabel": "Dvizioon's LinkedIn",
+    "githubAriaLabel": "Dvizioon's GitHub"
+  },
+  "footer": {
+    "copyright": "© {year} Dvizioon Portfolio. All rights reserved.",
+    "builtWith": "Built with Next.js, ShadCN UI, Genkit and passion."
+  },
+  "scrollToTop": {
+    "ariaLabel": "Scroll to top",
+    "title": "Back to top"
+  },
+  "imagePreviewModal": {
+    "titlePrefix": "Preview:",
+    "closeButtonAriaLabel": "Close image preview"
+  },
+  "projectPreviewModal": {
+    "titlePrefix": "Previewing:",
+    "liveSiteLink": "Open live site",
+    "closeButtonAriaLabel": "Close project preview"
+  },
+  "paletteInfoModal": {
+    "title": "Curiosities",
+    "closeButton": "Close",
+    "spiralTitle": "The 3D Spiral",
+    "spiralDescription1": "The animated 3D spiral in the background symbolizes continuous growth, perpetual learning, and the interconnectedness of ideas within the vast universe of technology.",
+    "spiralDescription2": "Its dynamic movement and shifting colors reflect the ever-evolving nature of the digital world and my personal journey of exploration and development within it."
+  },
+  "chatWidget": {
+    "initialGreeting": "Hello! 👋 I'm Vizioon. Click the icon in the corner to chat!",
+    "initialToastTitle": "Vizioon AI",
+    "agentTyping": "Thinking...",
+    "errorMessage": "Sorry, I had trouble connecting. Please try again later.",
+    "openChatLabel": "Open chat with Vizioon Agent",
+    "title": "Chat with Vizioon Agent",
+    "inputPlaceholder": "Type your message...",
+    "sendButtonLabel": "Send",
+    "statusOnline": "Online",
+    "statusOffline": "Offline",
+    "statusConnecting": "Connecting...",
+    "agentVersionLabel": "V",
+    "agentOfflineError": "Agent is currently offline. Please try again later."
+  }
+}

@@ -1,0 +1,67 @@
+
+import type { Project } from '@/types/project';
+
+export const projects: Project[] = [
+  {
+    id: '1',
+    title: 'VIZIOONPOSH',
+    description: 'Seletor de Temas Oh My Posh é uma ferramenta interativa de linha de comando que transforma a experiência de personalização do Oh My Posh. Desenvolvida para simplificar a navegação, visualização e aplicação de temas.',
+    imageUrl: 'https://github.com/dvizioon/VIZIOONPOSH/raw/main/screenshots/logo.png',
+    dataAiHint: 'linux gui',
+    link: 'https://dvizioon.github.io/VIZIOONPOSH/',
+    repositoryUrl: 'https://github.com/dvizioon/VIZIOONPOSH',
+    technologies: ['PowerShell', 'CLI'],
+    createdAt: '2023-03-15',
+  },
+  {
+    id: '2',
+    title: 'VIZIOON-DELIVERY',
+    description: 'Com PHP puro, desenvolvi um sistema de delivery que atende desde a realização de pedidos até a gestão de entregas. A aplicação oferece um painel administrativo intuitivo para os restaurantes e uma interface amigável para os clientes.',
+    imageUrl: 'https://github.com/dvizioon/VIZIOON-DELIVERY/raw/main/screenshots/logo.png',
+    dataAiHint: 'delivery system',
+    repositoryUrl: 'https://github.com/dvizioon/VIZIOON-DELIVERY',
+    technologies: ['PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
+    createdAt: '2022-07-20',
+  },
+  {
+    id: '3',
+    title: 'SISTEMA-IMC',
+    description: 'Sistema para calcular IMC desenvolvido com Flask API e explorando conceitos de IA generativa para fornecer insights sobre o resultado.',
+    imageUrl: 'https://github.com/dvizioon/SISTEMA-IMC/raw/main/assets/screenShots/01.png',
+    dataAiHint: 'health calculator',
+    repositoryUrl: 'https://github.com/dvizioon/SISTEMA-IMC',
+    technologies: ['Python', 'Flask', 'HTML', 'CSS', 'GenAI'],
+    createdAt: '2023-10-05',
+  },
+  {
+    id: '4',
+    title: 'CRIP-TEXTO',
+    description: 'Encriptador de Texto desenvolvido como parte do desafio BSP4. Ferramenta para criptografar e descriptografar mensagens de texto.',
+    imageUrl: 'https://github.com/dvizioon/CRIP-TEXTO/raw/main/Assets/Screenshots/01.png',
+    dataAiHint: 'text encryption',
+    link: 'https://dvizioon.github.io/CRIP-TEXTO/',
+    repositoryUrl: 'https://github.com/dvizioon/CRIP-TEXTO',
+    technologies: ['JavaScript', 'HTML', 'CSS'],
+    createdAt: '2023-01-10',
+  },
+  {
+    id: '5',
+    title: 'SYNC-CALCULATOR',
+    description: 'Calculadora com funcionalidades de IA, desenvolvida utilizando C#, Python e SQLite. Explora a integração de diferentes tecnologias para uma ferramenta inteligente.',
+    imageUrl: 'https://github.com/scriptsync/SYNC-CALCULATOR/raw/main/Img/Interface.png?raw=true',
+    dataAiHint: 'ai calculator',
+    repositoryUrl: 'https://github.com/dvizioon/SYNC-CALCULATOR',
+    technologies: ['C#', 'Python', 'SQLite', 'AI'],
+    createdAt: '2024-02-28',
+  },
+  {
+    id: '6',
+    title: 'ECO-BUMBAR',
+    description: 'Sistema PHP para o desafio FAPEMA sobre ecologia, permitindo a divulgação de um evento fictício. Focado em eventos e conscientização ambiental.',
+    imageUrl: 'https://github.com/dvizioon/ECO-BUMBAR/raw/main/Assets/Logo.png',
+    dataAiHint: 'ecology event',
+    repositoryUrl: 'https://github.com/dvizioon/ECO-BUMBAR',
+    technologies: ['PHP', 'HTML', 'CSS'],
+    createdAt: '2022-11-01',
+  }
+];
