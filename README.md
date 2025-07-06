@@ -13,13 +13,17 @@
 
 ## 📜 Índice
 
+- [📜 Índice](#-índice)
 - [✨ Conceito do Projeto](#-conceito-do-projeto)
-- [🚀 Funcionalidades Chave & Seções](#-funcionalidades-chave--seções)
+- [🚀 Funcionalidades Chave \& Seções](#-funcionalidades-chave--seções)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 - [🗺️ Roadmap (Melhorias Futuras)](#️-roadmap-melhorias-futuras)
-- [💡 Dicas & Truques para Usuários](#-dicas--truques-para-usuários)
+- [💡 Dicas \& Truques para Usuários](#-dicas--truques-para-usuários)
 - [⚠️ Observações Importantes](#️-observações-importantes)
 - [🔧 Começando (Para Desenvolvedores)](#-começando-para-desenvolvedores)
+  - [Pré-requisitos](#pré-requisitos)
+  - [Configuração](#configuração)
+  - [Build para Produção](#build-para-produção)
 - [📊 Fluxo de Usuário Conceitual](#-fluxo-de-usuário-conceitual)
 - [🤝 Contribuindo](#-contribuindo)
 - [📜 Licença](#-licença)
@@ -108,29 +112,29 @@ O Portfólio DVIION Technology foi projetado para ser mais do que uma simples ex
 
 ## 💡 Dicas & Truques para Usuários
 
-> [!DICA]
+> [!TIP]
 > **Interaja com o Vizioon AI!** Clique no botão com o logo DVIION no canto inferior direito para abrir o chat. Pergunte sobre projetos específicos (ex: "Conte-me mais sobre VIZIOONPOSH") ou as habilidades de Daniel.
 
-> [!DICA]
+> [!TIP]
 > **Explore Curiosidades!** Clique no ícone de quebra-cabeça (`<Puzzle />`) no cabeçalho para saber mais sobre a filosofia de design, como o significado por trás da espiral 3D.
 
-> [!DICA]
+> [!TIP]
 > **Customize Sua Visualização!** Use o alternador de tema (ícone de sol/lua) no cabeçalho para mudar entre os modos Claro e Escuro (Vizioon). O fundo 3D também se adaptará!
 
-> [!DICA]
+> [!TIP]
 > **Mude o Idioma!** Use o ícone de globo no cabeçalho para alternar entre Português e Inglês.
 
 ---
 
 ## ⚠️ Observações Importantes
 
-> [!AVISO]
+> [!WARNING]
 > **Limitações do Agente AI**: O Vizioon AI Agent é para fins informativos e demonstrativos. Embora se esforce para ser preciso usando os dados de projeto fornecidos, sempre verifique informações críticas.
 
-> [!NOTA]
+> [!IMPORTANT]
 > **Suporte WebGL**: Para a melhor experiência visual com o fundo 3D, certifique-se de que seu navegador suporta WebGL e tem aceleração de hardware habilitada.
 
-> [!NOTA]
+> [!IMPORTANT]
 > **Primeiro Desktop, Responsivo para Mobile**: Embora o portfólio seja projetado para ser responsivo, a experiência mais imersiva é em desktops ou telas maiores.
 
 ---
